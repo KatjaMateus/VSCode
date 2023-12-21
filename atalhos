@@ -1,0 +1,50 @@
+https://diegosmp.notion.site/Atalhos-Visual-Studio-Code-331e1a3647b34be5bd7b85c2f59cd0c5?pvs=25
+
+# CTRL + D - Seleciona a proxima ocorrencia
+# ALT + Click coloca o curso onde você clicou
+# CTRL + F2 seleciona todas as ocorrencias
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- para ir para o final da linha End no teclado e para  o inicio Home no teclado -->
+    <!-- Para comentar e descomentar uma linha Ctrl + ; -->
+    <!-- Tab para identar para frente e Shift + Tab para identar para trás -->
+    <!-- Para criar varias tags ao mesmo tempo nomeDaTag*NumeroDeRepetição -->
+    <!-- .nomeDaClasse para criar uma div com o nome da classe que você escolher -->
+    <!-- tag.nomeDaClasse para criar a tag que você escolheu mais a classe -->
+    <!-- #nomeDoId para criar uma div com o nome do Id -->
+    <!-- Alt + Seta - movimenta a linha para cima ou para baixo -->
+    <!-- Shift + Alt + seta - Copia a linha para cima ou para baixo -->
+    <!-- Apagar uma linha inteira - CTRL + SHIFT + K -->
+    <!-- Formatar o código CTRL + SHIFT + F -->
+    <!-- CTRL + Space - Itellisense - Auto completa -->
+    <!-- CTRL + tab - mudar de arquivo -->
+fechar tudo CTRL + W
+
+    <div class="content">
+        <ul>
+            <li>Inicio</li>
+            <li>Code</li>
+            <li>code</li>
+            <li>code</li>
+            <li>code</li>
+        </ul>
+        <ul>
+            <li>Inicio</li>
+            <li>Code</li>
+            <li>code</li>
+            <li>code</li>
+            <li>code</li>
+        </ul>
+    </div>
+</body>
+</html>
